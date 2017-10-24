@@ -1,0 +1,14 @@
+{
+  "name": "BHtoken",
+  "version": "0.0.1",
+  "description": "The black hole economy",
+  "repository": "git@github.com:bhtoken/BHtoken.git",
+  "author": "BH Token Team",
+  "license": "MIT",
+  "dependencies": {
+    "ethereumjs-testrpc": "^4.1.3",
+    "solc": "^0.4.18",
+    "truffle": "^3.4.11",
+    "zeppelin-solidity": "^1.3.0"
+  }
+}
